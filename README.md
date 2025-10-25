@@ -2,7 +2,7 @@
 
 A clear, structured introduction to embedded systems for absolute beginners. This guide explains what embedded systems are, dives deep into microcontrollers, outlines the surrounding ecosystem, covers firmware and programming, explains why you should learn embedded systems, provides a step-by-step roadmap, and points to advanced topics.
 
-Table of Contents
+##Table of Contents
 - [1. What is an Embedded System? (The Absolute Basics)](#1-what-is-an-embedded-system-the-absolute-basics)
 - [2. The Microcontroller (MCU): The Brain of the Operation - A Deep Dive](#2-the-microcontroller-mcu-the-brain-of-the-operation---a-deep-dive)
   - [What's Inside a Microcontroller? (The "Organs")](#whats-inside-a-microcontroller-the-organs)
