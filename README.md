@@ -4,9 +4,6 @@ A concise, practical guide to what embedded systems are, the components that mak
 
 ---
 
-Quick Access
-- Jump to: [Getting Started](#getting-started) · [Roadmap](#roadmap) · [Suggested Projects](#suggested-projects) · [Examples](#examples) · [Resources](#resources)
-
 Table of contents (full)
 <details>
 <summary>Click to expand/hide the full table of contents</summary>
